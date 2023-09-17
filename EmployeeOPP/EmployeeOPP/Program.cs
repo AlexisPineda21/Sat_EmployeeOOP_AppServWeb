@@ -52,6 +52,7 @@ try
         HiringDate = dateObject,
         IsActive = true,
         Salary = salary
+
     };
 
 

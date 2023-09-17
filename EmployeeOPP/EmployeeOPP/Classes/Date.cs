@@ -1,9 +1,4 @@
 ﻿using EmployeeOPP.Exceptions;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace EmployeeOPP.Classes
 {
@@ -37,13 +32,13 @@ namespace EmployeeOPP.Classes
             if (month == 2 && day == 29 && IsLeapYear(year))
             {
                 bool isLeapYear = false;
-                IsLeapYearException(isLeapYear, year); 
+                IsLeapYearException(isLeapYear, year);
             }
 
             int[] daysPerMonth = { 0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
-           
-            if (day >= 1 && day <= daysPerMonth[month]) 
-            { 
+
+            if (day >= 1 && day <= daysPerMonth[month])
+            {
                 return day;
             }
             else
@@ -52,23 +47,23 @@ namespace EmployeeOPP.Classes
             }
         }
 
-        private void IsLeapYearException(bool isLeapYear, int year) 
+        private void IsLeapYearException(bool isLeapYear, int year)
         {
-            if (!isLeapYear) 
+            if (!isLeapYear)
             {
                 throw new YearException(String.Format("El año {0} no es bisiesto", year));
             }
-            
+
         }
 
-        private bool IsLeapYear(int year) 
+        private bool IsLeapYear(int year)
         {
             return year % 400 == 0 || year % 4 == 0 && year % 100 != 0;
         }
 
         private int ValidateYear(int year)
         {
-            if (year >= 1900) 
+            if (year >= 1900)
             {
                 return year;
             }
@@ -80,7 +75,7 @@ namespace EmployeeOPP.Classes
 
         private int ValidateMonth(int month)
         {
-            if(month >= 1 && month <= 12)  //month = 13
+            if (month >= 1 && month <= 12)  //month = 13
             {
                 return month;
             }

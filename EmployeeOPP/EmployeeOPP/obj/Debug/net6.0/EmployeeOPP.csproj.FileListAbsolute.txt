@@ -1,0 +1,15 @@
+C:\Sat_EmployeeOPP_AppServWeb\EmployeeOPP\EmployeeOPP\obj\Debug\net6.0\EmployeeOPP.csproj.AssemblyReference.cache
+C:\Sat_EmployeeOPP_AppServWeb\EmployeeOPP\EmployeeOPP\obj\Debug\net6.0\EmployeeOPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sat_EmployeeOPP_AppServWeb\EmployeeOPP\EmployeeOPP\obj\Debug\net6.0\EmployeeOPP.AssemblyInfoInputs.cache
+C:\Sat_EmployeeOPP_AppServWeb\EmployeeOPP\EmployeeOPP\obj\Debug\net6.0\EmployeeOPP.AssemblyInfo.cs
+C:\Sat_EmployeeOPP_AppServWeb\EmployeeOPP\EmployeeOPP\obj\Debug\net6.0\EmployeeOPP.csproj.CoreCompileInputs.cache
+C:\Sat_EmployeeOPP_AppServWeb\EmployeeOPP\EmployeeOPP\bin\Debug\net6.0\EmployeeOPP.exe
+C:\Sat_EmployeeOPP_AppServWeb\EmployeeOPP\EmployeeOPP\bin\Debug\net6.0\EmployeeOPP.deps.json
+C:\Sat_EmployeeOPP_AppServWeb\EmployeeOPP\EmployeeOPP\bin\Debug\net6.0\EmployeeOPP.runtimeconfig.json
+C:\Sat_EmployeeOPP_AppServWeb\EmployeeOPP\EmployeeOPP\bin\Debug\net6.0\EmployeeOPP.dll
+C:\Sat_EmployeeOPP_AppServWeb\EmployeeOPP\EmployeeOPP\bin\Debug\net6.0\EmployeeOPP.pdb
+C:\Sat_EmployeeOPP_AppServWeb\EmployeeOPP\EmployeeOPP\obj\Debug\net6.0\EmployeeOPP.dll
+C:\Sat_EmployeeOPP_AppServWeb\EmployeeOPP\EmployeeOPP\obj\Debug\net6.0\refint\EmployeeOPP.dll
+C:\Sat_EmployeeOPP_AppServWeb\EmployeeOPP\EmployeeOPP\obj\Debug\net6.0\EmployeeOPP.pdb
+C:\Sat_EmployeeOPP_AppServWeb\EmployeeOPP\EmployeeOPP\obj\Debug\net6.0\EmployeeOPP.genruntimeconfig.cache
+C:\Sat_EmployeeOPP_AppServWeb\EmployeeOPP\EmployeeOPP\obj\Debug\net6.0\ref\EmployeeOPP.dll
